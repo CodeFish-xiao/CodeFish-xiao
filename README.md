@@ -6,6 +6,12 @@
 💬 简书：[代码小杂鱼](https://www.jianshu.com/u/39f67f70c3bc)
 
 📫 联系邮箱：1109038583@qq.com
+
+🌱 现在简书跟公众号的东西比较少，我会慢慢把仓库的内容整理出来再投稿。
+🌱 后续计划：解析某个微服务框架，并且尝试自己慢慢模仿一个出来。
+
+
+**铭记：模仿，学习，超越，创造**
 <!--
 **CodeFish-xiao/CodeFish-xiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
